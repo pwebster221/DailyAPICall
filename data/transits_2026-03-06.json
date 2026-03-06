@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-06",
+  "computed_utc": "2026-03-06T14:02:28.923085+00:00",
+  "positions": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree": 15.56,
+      "absolute_longitude": 345.5566,
+      "retrograde": false
+    },
+    "Moon": {
+      "sign": "Libra",
+      "degree": 21.36,
+      "absolute_longitude": 201.3614,
+      "retrograde": false
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 17.47,
+      "absolute_longitude": 347.4719,
+      "retrograde": true
+    },
+    "Venus": {
+      "sign": "Pisces",
+      "degree": 29.7,
+      "absolute_longitude": 359.7021,
+      "retrograde": false
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 2.72,
+      "absolute_longitude": 332.7153,
+      "retrograde": false
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 14.75,
+      "absolute_longitude": 104.7522,
+      "retrograde": true
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 2.02,
+      "absolute_longitude": 2.0238,
+      "retrograde": false
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 27.5,
+      "absolute_longitude": 57.497,
+      "retrograde": false
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 0.88,
+      "absolute_longitude": 0.8823,
+      "retrograde": false
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.31,
+      "absolute_longitude": 304.3122,
+      "retrograde": false
+    }
+  }
+}
