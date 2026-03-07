@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-07",
+  "planets": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree": 16.92,
+      "formatted": "16\u00b055' Pisces",
+      "longitude": 346.9192
+    },
+    "Moon": {
+      "sign": "Scorpio",
+      "degree": 3.41,
+      "formatted": "3\u00b024' Scorpio",
+      "longitude": 213.4106
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 16.84,
+      "formatted": "16\u00b050' Pisces",
+      "longitude": 346.8377
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 1.31,
+      "formatted": "1\u00b018' Aries",
+      "longitude": 1.3088
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 3.86,
+      "formatted": "3\u00b051' Pisces",
+      "longitude": 333.865
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.11,
+      "formatted": "15\u00b006' Cancer",
+      "longitude": 105.1096
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 2.51,
+      "formatted": "2\u00b030' Aries",
+      "longitude": 2.5078
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 27.89,
+      "formatted": "27\u00b053' Taurus",
+      "longitude": 57.8894
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.28,
+      "formatted": "1\u00b016' Aries",
+      "longitude": 1.2814
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.7,
+      "formatted": "4\u00b042' Aquarius",
+      "longitude": 304.7008
+    }
+  }
+}
