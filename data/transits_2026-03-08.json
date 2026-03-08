@@ -1,0 +1,67 @@
+{
+  "date": "2026-03-08",
+  "epoch": "J2000",
+  "type": "geocentric",
+  "positions": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree": 17.92,
+      "formatted": "17\u00b055' Pisces",
+      "absolute_degree": 347.92
+    },
+    "Moon": {
+      "sign": "Scorpio",
+      "degree": 15.45,
+      "formatted": "15\u00b026' Scorpio",
+      "absolute_degree": 225.45
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 15.82,
+      "formatted": "15\u00b049' Pisces",
+      "absolute_degree": 345.82
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 2.55,
+      "formatted": "2\u00b033' Aries",
+      "absolute_degree": 2.55
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 4.65,
+      "formatted": "4\u00b039' Pisces",
+      "absolute_degree": 334.65
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.1,
+      "formatted": "15\u00b005' Cancer",
+      "absolute_degree": 105.1
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 2.63,
+      "formatted": "2\u00b037' Aries",
+      "absolute_degree": 2.63
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 27.92,
+      "formatted": "27\u00b054' Taurus",
+      "absolute_degree": 57.92
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.32,
+      "formatted": "1\u00b019' Aries",
+      "absolute_degree": 1.32
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.73,
+      "formatted": "4\u00b043' Aquarius",
+      "absolute_degree": 304.73
+    }
+  }
+}
