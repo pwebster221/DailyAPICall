@@ -1,0 +1,85 @@
+{
+  "date": "2026-03-12",
+  "planets": [
+    {
+      "planet": "Sun",
+      "sign": "Pisces",
+      "degree": 21.92,
+      "absolute_longitude": 351.92,
+      "retrograde": false,
+      "elongation": 0.0
+    },
+    {
+      "planet": "Moon",
+      "sign": "Capricorn",
+      "degree": 3.05,
+      "absolute_longitude": 273.05,
+      "retrograde": false,
+      "elongation": -78.03
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Pisces",
+      "degree": 12.04,
+      "absolute_longitude": 342.04,
+      "retrograde": true,
+      "elongation": -10.3
+    },
+    {
+      "planet": "Venus",
+      "sign": "Aries",
+      "degree": 7.52,
+      "absolute_longitude": 7.52,
+      "retrograde": false,
+      "elongation": 15.65
+    },
+    {
+      "planet": "Mars",
+      "sign": "Pisces",
+      "degree": 7.8,
+      "absolute_longitude": 337.8,
+      "retrograde": false,
+      "elongation": -14.15
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Cancer",
+      "degree": 15.09,
+      "absolute_longitude": 105.09,
+      "retrograde": false,
+      "elongation": 113.17
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Aries",
+      "degree": 3.12,
+      "absolute_longitude": 3.12,
+      "retrograde": false,
+      "elongation": 11.4
+    },
+    {
+      "planet": "Uranus",
+      "sign": "Taurus",
+      "degree": 28.03,
+      "absolute_longitude": 58.03,
+      "retrograde": false,
+      "elongation": 66.11
+    },
+    {
+      "planet": "Neptune",
+      "sign": "Aries",
+      "degree": 1.47,
+      "absolute_longitude": 1.47,
+      "retrograde": false,
+      "elongation": 9.64
+    },
+    {
+      "planet": "Pluto",
+      "sign": "Aquarius",
+      "degree": 4.82,
+      "absolute_longitude": 304.82,
+      "retrograde": false,
+      "elongation": -47.22
+    }
+  ]
+}
