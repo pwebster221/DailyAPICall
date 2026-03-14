@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-14",
+  "utc_time": "12:00:00 UTC",
+  "moon_phase": "Last Quarter",
+  "positions": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree": 23.55,
+      "absolute_degree": 353.55
+    },
+    "Moon": {
+      "sign": "Capricorn",
+      "degree": 27.96,
+      "absolute_degree": 297.96,
+      "phase_pct": 21.9
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 10.19,
+      "absolute_degree": 340.19
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 9.64,
+      "absolute_degree": 9.64
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 9.02,
+      "absolute_degree": 339.02
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 14.74,
+      "absolute_degree": 104.74
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 3.01,
+      "absolute_degree": 3.01
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 27.73,
+      "absolute_degree": 57.73
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.18,
+      "absolute_degree": 1.18
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.51,
+      "absolute_degree": 304.51
+    }
+  }
+}
