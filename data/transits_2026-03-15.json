@@ -1,0 +1,69 @@
+{
+  "date": "2026-03-15",
+  "computed_utc": "2026-03-15T00:00:00Z",
+  "planets": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree_in_sign": 24.05,
+      "absolute_degree": 354.05
+    },
+    "Moon": {
+      "sign": "Aquarius",
+      "degree_in_sign": 4.21,
+      "absolute_degree": 304.21
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree_in_sign": 9.87,
+      "absolute_degree": 339.87,
+      "retrograde": true
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree_in_sign": 10.26,
+      "absolute_degree": 10.26,
+      "retrograde": false
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree_in_sign": 9.41,
+      "absolute_degree": 339.41,
+      "retrograde": false
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree_in_sign": 14.74,
+      "absolute_degree": 104.74,
+      "retrograde": false
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree_in_sign": 3.07,
+      "absolute_degree": 3.07,
+      "retrograde": false
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree_in_sign": 27.75,
+      "absolute_degree": 57.75,
+      "retrograde": false
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree_in_sign": 1.2,
+      "absolute_degree": 1.2,
+      "retrograde": false
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree_in_sign": 4.52,
+      "absolute_degree": 304.52,
+      "retrograde": false
+    }
+  },
+  "moon_phase": {
+    "name": "Waning Crescent",
+    "illumination_pct": 17.9,
+    "days_since_new": 25.5
+  }
+}
