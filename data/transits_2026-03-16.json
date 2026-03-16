@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-16",
+  "positions": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree": 25.54,
+      "longitude": 355.5426,
+      "retrograde": false
+    },
+    "Moon": {
+      "sign": "Aquarius",
+      "degree": 23.45,
+      "longitude": 323.4533,
+      "retrograde": false
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 9.09,
+      "longitude": 339.0853,
+      "retrograde": true
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 12.12,
+      "longitude": 12.1235,
+      "retrograde": false
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 10.59,
+      "longitude": 340.5901,
+      "retrograde": false
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 14.76,
+      "longitude": 104.764,
+      "retrograde": false
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 3.25,
+      "longitude": 3.253,
+      "retrograde": false
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 27.8,
+      "longitude": 57.7956,
+      "retrograde": false
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.26,
+      "longitude": 1.2558,
+      "retrograde": false
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.55,
+      "longitude": 304.5503,
+      "retrograde": false
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waning Crescent",
+    "illumination_pct": 7.7,
+    "days_since_new": 27.0,
+    "next_new_moon": "2026/3/19 01:23:25"
+  }
+}
