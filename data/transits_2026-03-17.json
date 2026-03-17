@@ -1,0 +1,60 @@
+{
+  "date": "2026-03-17",
+  "computed_utc": "2026-03-17T12:00:00+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree_in_sign": 26.54,
+      "absolute_degree": 356.54
+    },
+    "Moon": {
+      "sign": "Pisces",
+      "degree_in_sign": 6.72,
+      "absolute_degree": 336.72,
+      "phase": 2.98,
+      "days_since_new_moon": 28.0,
+      "cycle_fraction": 0.947,
+      "phase_name": "Dark Moon"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree_in_sign": 8.69,
+      "absolute_degree": 338.69
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree_in_sign": 13.36,
+      "absolute_degree": 13.36
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree_in_sign": 11.38,
+      "absolute_degree": 341.38
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree_in_sign": 14.78,
+      "absolute_degree": 104.78
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree_in_sign": 3.38,
+      "absolute_degree": 3.38
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree_in_sign": 27.83,
+      "absolute_degree": 57.83
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree_in_sign": 1.29,
+      "absolute_degree": 1.29
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree_in_sign": 4.57,
+      "absolute_degree": 304.57
+    }
+  }
+}
