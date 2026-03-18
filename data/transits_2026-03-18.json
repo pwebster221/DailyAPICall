@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-18",
+  "calculated_at_utc": "12:00:00",
+  "positions": [
+    {
+      "planet": "Sun",
+      "sign": "Pisces",
+      "degree": 27.53,
+      "absolute_longitude": 357.534,
+      "retrograde": false
+    },
+    {
+      "planet": "Moon",
+      "sign": "Pisces",
+      "degree": 20.34,
+      "absolute_longitude": 350.3399,
+      "retrograde": false
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Pisces",
+      "degree": 8.4,
+      "absolute_longitude": 338.3997,
+      "retrograde": true
+    },
+    {
+      "planet": "Venus",
+      "sign": "Aries",
+      "degree": 14.6,
+      "absolute_longitude": 14.6025,
+      "retrograde": false
+    },
+    {
+      "planet": "Mars",
+      "sign": "Pisces",
+      "degree": 12.16,
+      "absolute_longitude": 342.1635,
+      "retrograde": false
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Cancer",
+      "degree": 14.81,
+      "absolute_longitude": 104.8054,
+      "retrograde": false
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Aries",
+      "degree": 3.5,
+      "absolute_longitude": 3.5016,
+      "retrograde": false
+    },
+    {
+      "planet": "Uranus",
+      "sign": "Taurus",
+      "degree": 27.86,
+      "absolute_longitude": 57.8642,
+      "retrograde": false
+    },
+    {
+      "planet": "Neptune",
+      "sign": "Aries",
+      "degree": 1.33,
+      "absolute_longitude": 1.3314,
+      "retrograde": false
+    },
+    {
+      "planet": "Pluto",
+      "sign": "Aquarius",
+      "degree": 4.59,
+      "absolute_longitude": 304.5939,
+      "retrograde": false
+    }
+  ],
+  "moon_phase": {
+    "phase_name": "Waning Crescent",
+    "illumination_pct": 0.4,
+    "days_since_new": 29.0,
+    "next_new_moon": "2026/3/19 01:23:25"
+  }
+}
