@@ -1,0 +1,93 @@
+{
+  "date": "2026-03-19",
+  "timestamp_utc": "2026-03-19T14:04:55.791067+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Pisces",
+      "glyph": "\u2653",
+      "degree": 28.98,
+      "absolute_longitude": 358.98,
+      "retrograde": false,
+      "formatted": "29\u00b0Pis"
+    },
+    "Moon": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 5.53,
+      "absolute_longitude": 5.53,
+      "retrograde": false,
+      "formatted": "6\u00b0Ari"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "glyph": "\u2653",
+      "degree": 8.56,
+      "absolute_longitude": 338.56,
+      "retrograde": true,
+      "formatted": "9\u00b0Pis Rx"
+    },
+    "Venus": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 16.31,
+      "absolute_longitude": 16.31,
+      "retrograde": false,
+      "formatted": "16\u00b0Ari"
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "glyph": "\u2653",
+      "degree": 13.38,
+      "absolute_longitude": 343.38,
+      "retrograde": false,
+      "formatted": "13\u00b0Pis"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "glyph": "\u264b",
+      "degree": 15.2,
+      "absolute_longitude": 105.2,
+      "retrograde": false,
+      "formatted": "15\u00b0Can"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 4.0,
+      "absolute_longitude": 4.0,
+      "retrograde": false,
+      "formatted": "4\u00b0Ari"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "glyph": "\u2649",
+      "degree": 28.27,
+      "absolute_longitude": 58.27,
+      "retrograde": false,
+      "formatted": "28\u00b0Tau"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 1.73,
+      "absolute_longitude": 1.73,
+      "retrograde": false,
+      "formatted": "2\u00b0Ari"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "glyph": "\u2652",
+      "degree": 4.98,
+      "absolute_longitude": 304.98,
+      "retrograde": false,
+      "formatted": "5\u00b0Aqu"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "New Moon",
+    "illumination_pct": 0.4,
+    "age_days": 0.5,
+    "next_new_moon": "2026/4/17 11:51:44",
+    "next_full_moon": "2026/4/2 02:11:54"
+  }
+}
