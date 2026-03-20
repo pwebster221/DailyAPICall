@@ -1,0 +1,77 @@
+{
+  "date": "2026-03-20",
+  "computed_utc": "2026-03-20T12:00:00+00:00",
+  "positions": {
+    "Sun": {
+      "sign": "Pisces",
+      "degree": 29.52,
+      "absolute_degree": 359.52,
+      "ra": "23:59:34.78",
+      "dec": "-0:02:43.6"
+    },
+    "Moon": {
+      "sign": "Aries",
+      "degree": 18.5,
+      "absolute_degree": 18.5,
+      "ra": "1:04:25.47",
+      "dec": "10:30:15.5"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 8.13,
+      "absolute_degree": 338.13,
+      "ra": "22:38:53.89",
+      "dec": "-7:23:51.8"
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 17.08,
+      "absolute_degree": 17.08,
+      "ra": "1:05:40.02",
+      "dec": "6:02:19.8"
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 13.74,
+      "absolute_degree": 343.74,
+      "ra": "23:03:04.64",
+      "dec": "-7:14:58.8"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 14.86,
+      "absolute_degree": 104.86,
+      "ra": "7:06:17.15",
+      "dec": "22:55:45.4"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 3.75,
+      "absolute_degree": 3.75,
+      "ra": "0:18:28.20",
+      "dec": "-0:18:52.2"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 27.94,
+      "absolute_degree": 57.94,
+      "ra": "3:44:22.79",
+      "dec": "19:36:40.6"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.41,
+      "absolute_degree": 1.41,
+      "ra": "0:08:34.29",
+      "dec": "-0:29:40.6"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.64,
+      "absolute_degree": 304.64,
+      "ra": "20:33:29.79",
+      "dec": "-22:48:32.7"
+    }
+  },
+  "moon_phase": 2.81
+}
