@@ -1,0 +1,67 @@
+{
+  "date": "2026-03-22",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 1.51,
+      "absolute_degree": 1.51,
+      "retrograde": false
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "degree": 17.38,
+      "absolute_degree": 47.38,
+      "retrograde": false
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 8.27,
+      "absolute_degree": 338.27,
+      "retrograde": false
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 19.55,
+      "absolute_degree": 19.55,
+      "retrograde": false
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 15.31,
+      "absolute_degree": 345.31,
+      "retrograde": false
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 14.93,
+      "absolute_degree": 104.93,
+      "retrograde": false
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 4.0,
+      "absolute_degree": 4.0,
+      "retrograde": false
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.01,
+      "absolute_degree": 58.01,
+      "retrograde": false
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.48,
+      "absolute_degree": 1.48,
+      "retrograde": false
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.68,
+      "absolute_degree": 304.68,
+      "retrograde": false
+    }
+  },
+  "moon_phase_days": 3.4,
+  "moon_illumination": 15.4
+}
