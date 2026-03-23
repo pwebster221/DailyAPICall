@@ -1,0 +1,62 @@
+{
+  "date": "2026-03-23",
+  "computed_utc": "2026-03-23 00:00 UTC",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 2.01,
+      "absolute_degree": 2.01
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "degree": 24.62,
+      "absolute_degree": 54.62
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 8.36,
+      "absolute_degree": 338.36
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 20.17,
+      "absolute_degree": 20.17
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 15.7,
+      "absolute_degree": 345.7
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 14.95,
+      "absolute_degree": 104.95
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 4.06,
+      "absolute_degree": 4.06
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.03,
+      "absolute_degree": 58.03
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.5,
+      "absolute_degree": 1.5
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.69,
+      "absolute_degree": 304.69
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waxing Crescent",
+    "illumination_pct": 19.8,
+    "day_of_cycle": 3.9,
+    "next_full_moon": "2026/4/2 02:11:54"
+  }
+}
