@@ -1,0 +1,60 @@
+{
+  "date": "2026-03-24",
+  "computed_utc": "2026-03-24T12:00:00Z",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 3.49,
+      "abs_degree": 3.49
+    },
+    "Moon": {
+      "sign": "Gemini",
+      "degree": 16.25,
+      "abs_degree": 76.25
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 8.77,
+      "abs_degree": 338.77
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 22.03,
+      "abs_degree": 22.03
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 16.88,
+      "abs_degree": 346.88
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.01,
+      "abs_degree": 105.01
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 4.25,
+      "abs_degree": 4.25
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.09,
+      "abs_degree": 58.09
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.56,
+      "abs_degree": 1.56
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.72,
+      "abs_degree": 304.72
+    }
+  },
+  "moon_phase": {
+    "illumination_pct": 35.4,
+    "age_days": 5.4
+  }
+}
