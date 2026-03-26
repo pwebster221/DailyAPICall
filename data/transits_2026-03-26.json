@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-26",
+  "computed_utc": "2026-03-26T12:00:00+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 5.48,
+      "absolute_degree": 5.48,
+      "formatted": "5\u00b0Ari"
+    },
+    "Moon": {
+      "sign": "Cancer",
+      "degree": 14.54,
+      "absolute_degree": 104.54,
+      "formatted": "15\u00b0Can"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 9.6,
+      "absolute_degree": 339.6,
+      "formatted": "10\u00b0Pis"
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 24.5,
+      "absolute_degree": 24.5,
+      "formatted": "24\u00b0Ari"
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 18.45,
+      "absolute_degree": 348.45,
+      "formatted": "18\u00b0Pis"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.1,
+      "absolute_degree": 105.1,
+      "formatted": "15\u00b0Can"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 4.5,
+      "absolute_degree": 4.5,
+      "formatted": "4\u00b0Ari"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.17,
+      "absolute_degree": 58.17,
+      "formatted": "28\u00b0Tau"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.63,
+      "absolute_degree": 1.63,
+      "formatted": "2\u00b0Ari"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.75,
+      "absolute_degree": 304.75,
+      "formatted": "5\u00b0Aqu"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "First Quarter",
+    "illumination_pct": 58.0,
+    "elongation": 99.1,
+    "lunar_day": 8.1
+  }
+}
