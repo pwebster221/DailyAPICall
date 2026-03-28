@@ -1,0 +1,57 @@
+{
+  "date": "2026-03-28",
+  "positions": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 7.46,
+      "abs_degree": 7.46
+    },
+    "Moon": {
+      "sign": "Leo",
+      "degree": 12.03,
+      "abs_degree": 132.03
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 10.73,
+      "abs_degree": 340.73
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 26.97,
+      "abs_degree": 26.97
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 20.01,
+      "abs_degree": 350.01
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.2,
+      "abs_degree": 105.2
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 4.75,
+      "abs_degree": 4.75
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.25,
+      "abs_degree": 58.25
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.71,
+      "abs_degree": 1.71
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.79,
+      "abs_degree": 304.79
+    }
+  },
+  "moon_phase_pct": 78.4,
+  "lunar_day": 9.4
+}
