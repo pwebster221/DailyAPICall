@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-29",
+  "computed_utc": "2026-03-29T12:00:00+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 8,
+      "minute": 26,
+      "absolute_degree": 8.4443,
+      "formatted": "8\u00b026' Aries"
+    },
+    "Moon": {
+      "sign": "Leo",
+      "glyph": "\u264c",
+      "degree": 25,
+      "minute": 26,
+      "absolute_degree": 145.4492,
+      "formatted": "25\u00b026' Leo"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "glyph": "\u2653",
+      "degree": 11,
+      "minute": 23,
+      "absolute_degree": 341.399,
+      "formatted": "11\u00b023' Pisces"
+    },
+    "Venus": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 28,
+      "minute": 11,
+      "absolute_degree": 28.1985,
+      "formatted": "28\u00b011' Aries"
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "glyph": "\u2653",
+      "degree": 20,
+      "minute": 47,
+      "absolute_degree": 350.7981,
+      "formatted": "20\u00b047' Pisces"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "glyph": "\u264b",
+      "degree": 15,
+      "minute": 15,
+      "absolute_degree": 105.2579,
+      "formatted": "15\u00b015' Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 4,
+      "minute": 52,
+      "absolute_degree": 4.8736,
+      "formatted": "4\u00b052' Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "glyph": "\u2649",
+      "degree": 28,
+      "minute": 17,
+      "absolute_degree": 58.2889,
+      "formatted": "28\u00b017' Taurus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "glyph": "\u2648",
+      "degree": 1,
+      "minute": 44,
+      "absolute_degree": 1.7477,
+      "formatted": "1\u00b044' Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "glyph": "\u2652",
+      "degree": 4,
+      "minute": 48,
+      "absolute_degree": 304.8062,
+      "formatted": "4\u00b048' Aquarius"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waxing Gibbous",
+    "illumination_pct": 86.6,
+    "lunar_day": 11.2,
+    "elongation": 137.0
+  }
+}
