@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-30",
+  "computed_utc": "2026-03-30T12:00:00Z",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 9.43,
+      "abs_degree": 9.43,
+      "retrograde": false
+    },
+    "Moon": {
+      "sign": "Virgo",
+      "degree": 8.67,
+      "abs_degree": 158.67,
+      "retrograde": false
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 12.13,
+      "abs_degree": 342.13,
+      "retrograde": true
+    },
+    "Venus": {
+      "sign": "Aries",
+      "degree": 29.43,
+      "abs_degree": 29.43,
+      "retrograde": false
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 21.58,
+      "abs_degree": 351.58,
+      "retrograde": true
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.32,
+      "abs_degree": 105.32,
+      "retrograde": false
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 5.0,
+      "abs_degree": 5.0,
+      "retrograde": true
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.33,
+      "abs_degree": 58.33,
+      "retrograde": false
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.79,
+      "abs_degree": 1.79,
+      "retrograde": true
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.82,
+      "abs_degree": 304.82,
+      "retrograde": true
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waxing Gibbous",
+    "illumination_pct": 93.0,
+    "lunar_day": 12.2,
+    "elongation": 149.23
+  }
+}
