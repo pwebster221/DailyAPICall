@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-31",
+  "timestamp_utc": "2026-03-31T14:05:15.490514+00:00",
+  "positions": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 10,
+      "minute": 30,
+      "absolute_degree": 10.5056,
+      "formatted": "10\u00b030' Aries",
+      "daily_motion": 0.9868,
+      "retrograde": false
+    },
+    "Moon": {
+      "sign": "Virgo",
+      "degree": 22,
+      "minute": 48,
+      "absolute_degree": 172.8044,
+      "formatted": "22\u00b048' Virgo",
+      "daily_motion": 12.7976,
+      "retrograde": false
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 12,
+      "minute": 59,
+      "absolute_degree": 342.9896,
+      "formatted": "12\u00b059' Pisces",
+      "daily_motion": 0.8497,
+      "retrograde": false
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 0,
+      "minute": 46,
+      "absolute_degree": 30.7698,
+      "formatted": "0\u00b046' Taurus",
+      "daily_motion": 1.2311,
+      "retrograde": false
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 22,
+      "minute": 25,
+      "absolute_degree": 352.4318,
+      "formatted": "22\u00b025' Pisces",
+      "daily_motion": 0.7822,
+      "retrograde": false
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15,
+      "minute": 23,
+      "absolute_degree": 105.3852,
+      "formatted": "15\u00b023' Cancer",
+      "daily_motion": 0.0655,
+      "retrograde": false
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 5,
+      "minute": 8,
+      "absolute_degree": 5.1336,
+      "formatted": "5\u00b008' Aries",
+      "daily_motion": 0.1244,
+      "retrograde": false
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28,
+      "minute": 22,
+      "absolute_degree": 58.378,
+      "formatted": "28\u00b022' Taurus",
+      "daily_motion": 0.0435,
+      "retrograde": false
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1,
+      "minute": 49,
+      "absolute_degree": 1.8262,
+      "formatted": "1\u00b049' Aries",
+      "daily_motion": 0.0375,
+      "retrograde": false
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4,
+      "minute": 50,
+      "absolute_degree": 304.841,
+      "formatted": "4\u00b050' Aquarius",
+      "daily_motion": 0.016,
+      "retrograde": false
+    }
+  },
+  "moon_phase": {
+    "phase": "Waxing Gibbous",
+    "illumination_pct": 97.6,
+    "elongation": 162.3,
+    "lunar_day": 13.3
+  }
+}
