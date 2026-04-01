@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-01",
+  "computed_utc": "2026-04-01T12:00:00+00:00",
+  "positions": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 11.41,
+      "longitude": 11.41
+    },
+    "Moon": {
+      "sign": "Libra",
+      "degree": 4.5,
+      "longitude": 184.5
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 13.76,
+      "longitude": 343.76
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 1.89,
+      "longitude": 31.89
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 23.15,
+      "longitude": 353.15
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.44,
+      "longitude": 105.44
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 5.25,
+      "longitude": 5.25
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.42,
+      "longitude": 58.42
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.86,
+      "longitude": 1.86
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.86,
+      "longitude": 304.86
+    }
+  },
+  "moon_phase": {
+    "illumination_pct": 99.6,
+    "lunar_day": 13.4
+  }
+}
