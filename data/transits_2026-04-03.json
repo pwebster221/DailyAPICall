@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-03",
+  "utc_time": "2026-04-03T12:00:00+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 13.38,
+      "ecliptic_longitude": 13.3786
+    },
+    "Moon": {
+      "sign": "Libra",
+      "degree": 29.54,
+      "ecliptic_longitude": 209.5394
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 15.61,
+      "ecliptic_longitude": 345.6089
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 4.35,
+      "ecliptic_longitude": 34.3542
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 24.71,
+      "ecliptic_longitude": 354.7093
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.58,
+      "ecliptic_longitude": 105.5839
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 5.5,
+      "ecliptic_longitude": 5.4955
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.51,
+      "ecliptic_longitude": 58.5063
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 1.94,
+      "ecliptic_longitude": 1.9352
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.89,
+      "ecliptic_longitude": 304.8866
+    }
+  },
+  "moon_phase_pct": 97.9
+}
