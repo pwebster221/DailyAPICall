@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-03",
+  "computed_utc": "2026/4/3 00:00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 13.25,
+      "absolute_longitude": 13.2526,
+      "formatted": "13.25\u00b0 Aries"
+    },
+    "Moon": {
+      "sign": "Libra",
+      "degree": 23.72,
+      "absolute_longitude": 203.7167,
+      "formatted": "23.72\u00b0 Libra"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 15.5,
+      "absolute_longitude": 345.4958,
+      "formatted": "15.50\u00b0 Pisces"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 4.11,
+      "absolute_longitude": 34.1061,
+      "formatted": "4.11\u00b0 Taurus"
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 24.69,
+      "absolute_longitude": 354.6854,
+      "formatted": "24.69\u00b0 Pisces"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.91,
+      "absolute_longitude": 105.9148,
+      "formatted": "15.91\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 5.8,
+      "absolute_longitude": 5.8003,
+      "formatted": "5.80\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.85,
+      "absolute_longitude": 58.8507,
+      "formatted": "28.85\u00b0 Taurus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 2.28,
+      "absolute_longitude": 2.2833,
+      "formatted": "2.28\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.25,
+      "absolute_longitude": 305.2459,
+      "formatted": "5.25\u00b0 Aquarius"
+    }
+  },
+  "moon_phase": 99.1,
+  "moon_phase_name": "Waning Gibbous",
+  "days_since_full": 0.9
+}
