@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-04",
+  "computed_utc": "2026/4/4 14:00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 14.81,
+      "absolute_longitude": 14.8127,
+      "formatted": "14.81 Aries"
+    },
+    "Moon": {
+      "sign": "Scorpio",
+      "degree": 13.16,
+      "absolute_longitude": 223.1649,
+      "formatted": "13.16 Scorpio"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 17.06,
+      "absolute_longitude": 347.0561,
+      "formatted": "17.06 Pisces"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 6.05,
+      "absolute_longitude": 36.0528,
+      "formatted": "6.05 Taurus"
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 25.92,
+      "absolute_longitude": 355.9224,
+      "formatted": "25.92 Pisces"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 16.03,
+      "absolute_longitude": 106.0307,
+      "formatted": "16.03 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 6.0,
+      "absolute_longitude": 5.9967,
+      "formatted": "6.00 Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.92,
+      "absolute_longitude": 58.9221,
+      "formatted": "28.92 Taurus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 2.34,
+      "absolute_longitude": 2.3424,
+      "formatted": "2.34 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.27,
+      "absolute_longitude": 305.2696,
+      "formatted": "5.27 Aquarius"
+    }
+  },
+  "moon_phase": 93.9,
+  "days_since_full": 2.5
+}
