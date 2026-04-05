@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-05",
+  "time_utc": "2026-04-05T14:00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree_in_sign": 15.8,
+      "formatted": "15\u00b047' Aries",
+      "total_ecliptic_longitude": 15.7973
+    },
+    "Moon": {
+      "sign": "Scorpio",
+      "degree_in_sign": 25.24,
+      "formatted": "25\u00b014' Scorpio",
+      "total_ecliptic_longitude": 235.2415,
+      "phase_pct": 88.5,
+      "phase_name": "Waning Gibbous",
+      "days_since_full": 3.5
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree_in_sign": 18.1,
+      "formatted": "18\u00b006' Pisces",
+      "total_ecliptic_longitude": 348.1001
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree_in_sign": 7.28,
+      "formatted": "7\u00b016' Taurus",
+      "total_ecliptic_longitude": 37.2815
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree_in_sign": 26.7,
+      "formatted": "26\u00b042' Pisces",
+      "total_ecliptic_longitude": 356.7031
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree_in_sign": 16.11,
+      "formatted": "16\u00b006' Cancer",
+      "total_ecliptic_longitude": 106.1076
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree_in_sign": 6.12,
+      "formatted": "6\u00b007' Aries",
+      "total_ecliptic_longitude": 6.1205
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree_in_sign": 28.97,
+      "formatted": "28\u00b058' Taurus",
+      "total_ecliptic_longitude": 58.9678
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree_in_sign": 2.38,
+      "formatted": "2\u00b022' Aries",
+      "total_ecliptic_longitude": 2.3795
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree_in_sign": 5.28,
+      "formatted": "5\u00b017' Aquarius",
+      "total_ecliptic_longitude": 305.284
+    }
+  }
+}
