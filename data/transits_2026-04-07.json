@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-07",
+  "utc_time": "2026-04-07T14:05:18Z",
+  "positions": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 17.76,
+      "absolute_degree": 17.76
+    },
+    "Moon": {
+      "sign": "Sagittarius",
+      "degree": 18.64,
+      "absolute_degree": 258.64
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 20.31,
+      "absolute_degree": 350.31
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 9.74,
+      "absolute_degree": 39.74
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 28.26,
+      "absolute_degree": 358.26
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 16.27,
+      "absolute_degree": 106.27
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 6.36,
+      "absolute_degree": 6.36
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 29.06,
+      "absolute_degree": 59.06
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 2.45,
+      "absolute_degree": 2.45
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.31,
+      "absolute_degree": 305.31
+    }
+  },
+  "moon_phase": {
+    "percentage": 74.0,
+    "phase_name": "Waning Gibbous"
+  }
+}
