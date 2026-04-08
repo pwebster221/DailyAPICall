@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-08",
+  "time_utc": "12:00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 18.3,
+      "absolute_degree": 18.3,
+      "formatted": "18.30\u00b0 Aries"
+    },
+    "Moon": {
+      "sign": "Sagittarius",
+      "degree": 29.6,
+      "absolute_degree": 269.6,
+      "formatted": "29.60\u00b0 Sagittarius"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 21.02,
+      "absolute_degree": 351.02,
+      "formatted": "21.02\u00b0 Pisces"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 10.49,
+      "absolute_degree": 40.49,
+      "formatted": "10.49\u00b0 Taurus"
+    },
+    "Mars": {
+      "sign": "Pisces",
+      "degree": 28.61,
+      "absolute_degree": 358.61,
+      "formatted": "28.61\u00b0 Pisces"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 15.98,
+      "absolute_degree": 105.98,
+      "formatted": "15.98\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 6.11,
+      "absolute_degree": 6.11,
+      "formatted": "6.11\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 28.74,
+      "absolute_degree": 58.74,
+      "formatted": "28.74\u00b0 Taurus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 2.12,
+      "absolute_degree": 2.12,
+      "formatted": "2.12\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 4.96,
+      "absolute_degree": 304.96,
+      "formatted": "4.96\u00b0 Aquarius"
+    }
+  },
+  "moon_phase": {
+    "percent_of_cycle": 69.4,
+    "phase_name": "Waning Gibbous",
+    "illumination": 69.4
+  }
+}
