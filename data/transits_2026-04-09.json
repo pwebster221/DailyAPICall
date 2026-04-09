@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-09",
+  "timestamp_utc": "2026-04-09T14:02:27.359620+00:00",
+  "positions": [
+    {
+      "planet": "Sun",
+      "sign": "Aries",
+      "degree": 19.73,
+      "degree_formatted": "19\u00b043'",
+      "absolute_longitude": 19.7273
+    },
+    {
+      "planet": "Moon",
+      "sign": "Capricorn",
+      "degree": 12.18,
+      "degree_formatted": "12\u00b010'",
+      "absolute_longitude": 282.1826
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Pisces",
+      "degree": 22.68,
+      "degree_formatted": "22\u00b040'",
+      "absolute_longitude": 352.6823
+    },
+    {
+      "planet": "Venus",
+      "sign": "Taurus",
+      "degree": 12.19,
+      "degree_formatted": "12\u00b011'",
+      "absolute_longitude": 42.1886
+    },
+    {
+      "planet": "Mars",
+      "sign": "Pisces",
+      "degree": 29.82,
+      "degree_formatted": "29\u00b049'",
+      "absolute_longitude": 359.8188
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Cancer",
+      "degree": 16.44,
+      "degree_formatted": "16\u00b026'",
+      "absolute_longitude": 106.4444
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Aries",
+      "degree": 6.61,
+      "degree_formatted": "6\u00b036'",
+      "absolute_longitude": 6.6097
+    },
+    {
+      "planet": "Uranus",
+      "sign": "Taurus",
+      "degree": 29.15,
+      "degree_formatted": "29\u00b009'",
+      "absolute_longitude": 59.1534
+    },
+    {
+      "planet": "Neptune",
+      "sign": "Aries",
+      "degree": 2.52,
+      "degree_formatted": "2\u00b031'",
+      "absolute_longitude": 2.523
+    },
+    {
+      "planet": "Pluto",
+      "sign": "Aquarius",
+      "degree": 5.34,
+      "degree_formatted": "5\u00b020'",
+      "absolute_longitude": 305.3372
+    }
+  ],
+  "moon_phase": {
+    "illumination": 56.1,
+    "phase_name": "Waning Gibbous"
+  }
+}
