@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-10",
+  "time_utc": "12:00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree_in_sign": 20.264,
+      "absolute_degree": 20.264,
+      "formatted": "20.26\u00b0 Aries"
+    },
+    "Moon": {
+      "sign": "Capricorn",
+      "degree_in_sign": 23.5701,
+      "absolute_degree": 293.5701,
+      "formatted": "23.57\u00b0 Capricorn"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree_in_sign": 23.454,
+      "absolute_degree": 353.454,
+      "formatted": "23.45\u00b0 Pisces"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree_in_sign": 12.9466,
+      "absolute_degree": 42.9466,
+      "formatted": "12.95\u00b0 Taurus"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree_in_sign": 0.1686,
+      "absolute_degree": 0.1686,
+      "formatted": "0.17\u00b0 Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree_in_sign": 16.158,
+      "absolute_degree": 106.158,
+      "formatted": "16.16\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree_in_sign": 6.3587,
+      "absolute_degree": 6.3587,
+      "formatted": "6.36\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree_in_sign": 28.8331,
+      "absolute_degree": 58.8331,
+      "formatted": "28.83\u00b0 Taurus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree_in_sign": 2.1931,
+      "absolute_degree": 2.1931,
+      "formatted": "2.19\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree_in_sign": 4.9812,
+      "absolute_degree": 304.9812,
+      "formatted": "4.98\u00b0 Aquarius"
+    }
+  },
+  "moon_phase": 47.3,
+  "moon_phase_name": "Last Quarter",
+  "moon_illumination": 47.3
+}
