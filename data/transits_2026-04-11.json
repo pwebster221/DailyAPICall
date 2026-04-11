@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-11",
+  "computed_at_utc": "2026-04-11 12:00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree": 21.61,
+      "absolute_degree": 21.61
+    },
+    "Moon": {
+      "sign": "Aquarius",
+      "degree": 5.32,
+      "absolute_degree": 305.32
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree": 25.09,
+      "absolute_degree": 355.09
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 14.54,
+      "absolute_degree": 44.54
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 1.31,
+      "absolute_degree": 1.31
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 16.62,
+      "absolute_degree": 106.62
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 6.84,
+      "absolute_degree": 6.84
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 29.25,
+      "absolute_degree": 59.25
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 2.59,
+      "absolute_degree": 2.59
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.36,
+      "absolute_degree": 305.36
+    }
+  },
+  "moon_phase": {
+    "illumination_pct": 37.5,
+    "phase_name": "Waning Crescent"
+  }
+}
