@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-14",
+  "timestamp_utc": "2026-04-14T14:02:12.797452+00:00",
+  "positions": [
+    {
+      "planet": "Sun",
+      "sign": "Aries",
+      "degree": 24.63,
+      "absolute_longitude": 24.63,
+      "formatted": "25\u00b0Ari (Aries 24.63\u00b0)"
+    },
+    {
+      "planet": "Moon",
+      "sign": "Pisces",
+      "degree": 15.33,
+      "absolute_longitude": 345.33,
+      "formatted": "15\u00b0Pis (Pisces 15.33\u00b0)"
+    },
+    {
+      "planet": "Mercury",
+      "sign": "Pisces",
+      "degree": 29.22,
+      "absolute_longitude": 359.22,
+      "formatted": "29\u00b0Pis (Pisces 29.22\u00b0)"
+    },
+    {
+      "planet": "Venus",
+      "sign": "Taurus",
+      "degree": 18.31,
+      "absolute_longitude": 48.31,
+      "formatted": "18\u00b0Tau (Taurus 18.31\u00b0)"
+    },
+    {
+      "planet": "Mars",
+      "sign": "Aries",
+      "degree": 3.71,
+      "absolute_longitude": 3.71,
+      "formatted": "4\u00b0Ari (Aries 3.71\u00b0)"
+    },
+    {
+      "planet": "Jupiter",
+      "sign": "Cancer",
+      "degree": 16.92,
+      "absolute_longitude": 106.92,
+      "formatted": "17\u00b0Can (Cancer 16.92\u00b0)"
+    },
+    {
+      "planet": "Saturn",
+      "sign": "Aries",
+      "degree": 7.22,
+      "absolute_longitude": 7.22,
+      "formatted": "7\u00b0Ari (Aries 7.22\u00b0)"
+    },
+    {
+      "planet": "Uranus",
+      "sign": "Taurus",
+      "degree": 29.4,
+      "absolute_longitude": 59.4,
+      "formatted": "29\u00b0Tau (Taurus 29.40\u00b0)"
+    },
+    {
+      "planet": "Neptune",
+      "sign": "Aries",
+      "degree": 2.7,
+      "absolute_longitude": 2.7,
+      "formatted": "3\u00b0Ari (Aries 2.70\u00b0)"
+    },
+    {
+      "planet": "Pluto",
+      "sign": "Aquarius",
+      "degree": 5.39,
+      "absolute_longitude": 305.39,
+      "formatted": "5\u00b0Aqu (Aquarius 5.39\u00b0)"
+    }
+  ],
+  "moon_phase": {
+    "illumination": 10.9,
+    "phase_name": "Waning Crescent",
+    "elongation": 320.7
+  }
+}
