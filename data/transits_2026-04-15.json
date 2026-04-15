@@ -1,0 +1,93 @@
+{
+  "date": "2026-04-15",
+  "time_utc": "14:02 UTC",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree_in_sign": 25.62,
+      "total_ecliptic_degree": 25.62,
+      "formatted": "25°37' Aries"
+    },
+    "Moon": {
+      "sign": "Pisces",
+      "degree_in_sign": 29.97,
+      "total_ecliptic_degree": 359.97,
+      "formatted": "29°58' Pisces",
+      "note": "Aries ingress imminent ~14:02 UTC"
+    },
+    "Mercury": {
+      "sign": "Aries",
+      "degree_in_sign": 0.63,
+      "total_ecliptic_degree": 0.63,
+      "formatted": "0°37' Aries",
+      "note": "Aries ingress ~09:26 UTC today"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree_in_sign": 19.54,
+      "total_ecliptic_degree": 49.54,
+      "formatted": "19°32' Taurus"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree_in_sign": 4.49,
+      "total_ecliptic_degree": 4.49,
+      "formatted": "4°29' Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree_in_sign": 17.02,
+      "total_ecliptic_degree": 107.02,
+      "formatted": "17°01' Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree_in_sign": 7.34,
+      "total_ecliptic_degree": 7.34,
+      "formatted": "7°20' Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree_in_sign": 29.45,
+      "total_ecliptic_degree": 59.45,
+      "formatted": "29°27' Taurus",
+      "note": "0°33' from Gemini ingress (Apr 26)"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree_in_sign": 2.74,
+      "total_ecliptic_degree": 2.74,
+      "formatted": "2°44' Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree_in_sign": 5.40,
+      "total_ecliptic_degree": 305.40,
+      "formatted": "5°24' Aquarius"
+    }
+  },
+  "moon_phase": {
+    "illumination_pct": 5.0,
+    "phase": "Waning Crescent (Balsamic)",
+    "cycle_fraction": 0.935,
+    "new_moon": "2026-04-17 11:52 UTC"
+  },
+  "element_distribution": {
+    "Fire": 5,
+    "Earth": 2,
+    "Air": 1,
+    "Water": 2
+  },
+  "natal_contacts": {
+    "Mars_sx_Mercury": {"orb": "0°29'", "status": "separating", "exact": "~23:00 UTC Apr 14"},
+    "Neptune_sx_Mercury": {"orb": "1°15'", "status": "applying"},
+    "Pluto_conj_Mercury": {"orb": "1°24'", "status": "separating"},
+    "Jupiter_opp_Stellium": {"orb": "2°01'", "status": "separating"}
+  },
+  "key_events": [
+    "Mercury Aries ingress ~09:26 UTC",
+    "Moon Aries ingress ~14:02 UTC",
+    "Moon sx natal Mercury exact ~21:00 UTC",
+    "Mars sx natal Mercury 0°29' separating (exact last night)"
+  ]
+}
