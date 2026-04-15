@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-14",
+  "time_utc": "14:06 UTC",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree_in_sign": 24.27,
+      "total_ecliptic_degree": 24.27,
+      "formatted": "24.27\u00b0 Aries"
+    },
+    "Moon": {
+      "sign": "Pisces",
+      "degree_in_sign": 15.83,
+      "total_ecliptic_degree": 345.83,
+      "formatted": "15.83\u00b0 Pisces"
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "degree_in_sign": 28.86,
+      "total_ecliptic_degree": 358.86,
+      "formatted": "28.86\u00b0 Pisces"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree_in_sign": 17.95,
+      "total_ecliptic_degree": 47.95,
+      "formatted": "17.95\u00b0 Taurus"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree_in_sign": 3.35,
+      "total_ecliptic_degree": 3.35,
+      "formatted": "3.35\u00b0 Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree_in_sign": 16.55,
+      "total_ecliptic_degree": 106.55,
+      "formatted": "16.55\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree_in_sign": 6.86,
+      "total_ecliptic_degree": 6.86,
+      "formatted": "6.86\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree_in_sign": 29.03,
+      "total_ecliptic_degree": 59.03,
+      "formatted": "29.03\u00b0 Taurus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree_in_sign": 2.34,
+      "total_ecliptic_degree": 2.34,
+      "formatted": "2.34\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree_in_sign": 5.03,
+      "total_ecliptic_degree": 305.03,
+      "formatted": "5.03\u00b0 Aquarius"
+    }
+  },
+  "moon_phase": {
+    "illumination_pct": 10.9,
+    "phase": "Waning Crescent",
+    "cycle_fraction": 0.901
+  },
+  "element_distribution": {
+    "Fire": 4,
+    "Earth": 2,
+    "Air": 1,
+    "Water": 3
+  }
+}
