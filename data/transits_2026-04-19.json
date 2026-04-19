@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-19",
+  "timestamp_utc": "2026-04-19T14:04:23.285462+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Aries",
+      "degree_in_sign": 29.53,
+      "absolute_degree": 29.53,
+      "formatted": "29.53\u00b0 Aries"
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "degree_in_sign": 28.62,
+      "absolute_degree": 58.62,
+      "formatted": "28.62\u00b0 Taurus"
+    },
+    "Mercury": {
+      "sign": "Aries",
+      "degree_in_sign": 6.55,
+      "absolute_degree": 6.55,
+      "formatted": "6.55\u00b0 Aries"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree_in_sign": 24.42,
+      "absolute_degree": 54.42,
+      "formatted": "24.42\u00b0 Taurus"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree_in_sign": 7.59,
+      "absolute_degree": 7.59,
+      "formatted": "7.59\u00b0 Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree_in_sign": 17.46,
+      "absolute_degree": 107.46,
+      "formatted": "17.46\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree_in_sign": 7.82,
+      "absolute_degree": 7.82,
+      "formatted": "7.82\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree_in_sign": 29.66,
+      "absolute_degree": 59.66,
+      "formatted": "29.66\u00b0 Taurus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree_in_sign": 2.88,
+      "absolute_degree": 2.88,
+      "formatted": "2.88\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree_in_sign": 5.44,
+      "absolute_degree": 305.44,
+      "formatted": "5.44\u00b0 Aquarius"
+    }
+  },
+  "moon_phase": {
+    "phase": "Waxing Crescent",
+    "illumination_pct": 6.5,
+    "elongation": 29.1,
+    "cycle_fraction": 0.081
+  }
+}
