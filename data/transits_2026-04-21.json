@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-21",
+  "timestamp_utc": "2026-04-21T14:02:03.010897+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 1.48,
+      "absolute_longitude": 31.48,
+      "formatted": "1\u00b0Tau (Taurus 1.48\u00b0)"
+    },
+    "Moon": {
+      "sign": "Gemini",
+      "degree": 28.2,
+      "absolute_longitude": 88.2,
+      "formatted": "28\u00b0Gem (Gemini 28.20\u00b0)"
+    },
+    "Mercury": {
+      "sign": "Aries",
+      "degree": 9.69,
+      "absolute_longitude": 9.69,
+      "formatted": "10\u00b0Ari (Aries 9.69\u00b0)"
+    },
+    "Venus": {
+      "sign": "Taurus",
+      "degree": 26.86,
+      "absolute_longitude": 56.86,
+      "formatted": "27\u00b0Tau (Taurus 26.86\u00b0)"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 9.13,
+      "absolute_longitude": 9.13,
+      "formatted": "9\u00b0Ari (Aries 9.13\u00b0)"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 17.7,
+      "absolute_longitude": 107.7,
+      "formatted": "18\u00b0Can (Cancer 17.70\u00b0)"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 8.06,
+      "absolute_longitude": 8.06,
+      "formatted": "8\u00b0Ari (Aries 8.06\u00b0)"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 29.76,
+      "absolute_longitude": 59.76,
+      "formatted": "30\u00b0Tau (Taurus 29.76\u00b0)"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 2.95,
+      "absolute_longitude": 2.95,
+      "formatted": "3\u00b0Ari (Aries 2.95\u00b0)"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.45,
+      "absolute_longitude": 305.45,
+      "formatted": "5\u00b0Aqu (Aquarius 5.45\u00b0)"
+    }
+  },
+  "moon_phase": {
+    "days_since_new": 4.09,
+    "cycle_fraction": 0.139,
+    "illumination_pct": 22.7
+  }
+}
