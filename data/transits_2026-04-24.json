@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-24",
+  "computed_at_utc": "2026-04-24T12:00:00Z",
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 4.33,
+      "absolute_degree": 34.33,
+      "name": "Sun"
+    },
+    "Moon": {
+      "sign": "Leo",
+      "degree": 9.34,
+      "absolute_degree": 129.34,
+      "name": "Moon"
+    },
+    "Mercury": {
+      "sign": "Aries",
+      "degree": 14.46,
+      "absolute_degree": 14.46,
+      "name": "Mercury"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 0.41,
+      "absolute_degree": 60.41,
+      "name": "Venus"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 11.38,
+      "absolute_degree": 11.38,
+      "name": "Mars"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 18.05,
+      "absolute_degree": 108.05,
+      "name": "Jupiter"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 8.4,
+      "absolute_degree": 8.4,
+      "name": "Saturn"
+    },
+    "Uranus": {
+      "sign": "Taurus",
+      "degree": 29.92,
+      "absolute_degree": 59.92,
+      "name": "Uranus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.05,
+      "absolute_degree": 3.05,
+      "name": "Neptune"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.47,
+      "absolute_degree": 305.47,
+      "name": "Pluto"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "First Quarter",
+    "illumination_pct": 54.5,
+    "cycle_fraction": 0.239,
+    "day_of_cycle": 8,
+    "days_since_new_moon": 7.01,
+    "new_moon_date": "2026/4/17 11:51:44"
+  },
+  "elements": {
+    "Fire": 5,
+    "Earth": 2,
+    "Air": 2,
+    "Water": 1
+  },
+  "modalities": {
+    "Cardinal": 5,
+    "Fixed": 4,
+    "Mutable": 1
+  }
+}
