@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-27",
+  "computed_utc": "2026-04-27 12:00 UTC",
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 7.25,
+      "absolute_degree": 37.25,
+      "formatted": "Taurus 7\u00b014'"
+    },
+    "Moon": {
+      "sign": "Virgo",
+      "degree": 18.86,
+      "absolute_degree": 168.86,
+      "formatted": "Virgo 18\u00b051'"
+    },
+    "Mercury": {
+      "sign": "Aries",
+      "degree": 19.62,
+      "absolute_degree": 19.62,
+      "formatted": "Aries 19\u00b037'"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 4.05,
+      "absolute_degree": 64.05,
+      "formatted": "Gemini 4\u00b002'"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 13.69,
+      "absolute_degree": 13.69,
+      "formatted": "Aries 13\u00b041'"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 18.44,
+      "absolute_degree": 108.44,
+      "formatted": "Cancer 18\u00b026'"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 8.75,
+      "absolute_degree": 8.75,
+      "formatted": "Aries 8\u00b045'"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0.08,
+      "absolute_degree": 60.08,
+      "formatted": "Gemini 0\u00b004'"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.15,
+      "absolute_degree": 3.15,
+      "formatted": "Aries 3\u00b009'"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.49,
+      "absolute_degree": 305.49,
+      "formatted": "Aquarius 5\u00b029'"
+    }
+  },
+  "moon_phase": {
+    "name": "First Quarter",
+    "day": 11,
+    "illumination_pct": 77.1,
+    "cycle_fraction": 0.341
+  }
+}
