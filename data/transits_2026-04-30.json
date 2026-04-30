@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-30",
+  "utc_time": "14:02 UTC",
+  "planets": {
+    "Sun": {
+      "longitude": 40.2457,
+      "sign": "Taurus",
+      "degree_in_sign": 10.25,
+      "formatted": "10\u00b014' Taurus"
+    },
+    "Moon": {
+      "longitude": 207.4527,
+      "sign": "Libra",
+      "degree_in_sign": 27.45,
+      "formatted": "27\u00b027' Libra"
+    },
+    "Mercury": {
+      "longitude": 25.205,
+      "sign": "Aries",
+      "degree_in_sign": 25.2,
+      "formatted": "25\u00b012' Aries"
+    },
+    "Venus": {
+      "longitude": 67.7897,
+      "sign": "Gemini",
+      "degree_in_sign": 7.79,
+      "formatted": "7\u00b047' Gemini"
+    },
+    "Mars": {
+      "longitude": 16.0592,
+      "sign": "Aries",
+      "degree_in_sign": 16.06,
+      "formatted": "16\u00b003' Aries"
+    },
+    "Jupiter": {
+      "longitude": 108.8574,
+      "sign": "Cancer",
+      "degree_in_sign": 18.86,
+      "formatted": "18\u00b051' Cancer"
+    },
+    "Saturn": {
+      "longitude": 9.1029,
+      "sign": "Aries",
+      "degree_in_sign": 9.1,
+      "formatted": "9\u00b006' Aries"
+    },
+    "Uranus": {
+      "longitude": 60.2537,
+      "sign": "Gemini",
+      "degree_in_sign": 0.25,
+      "formatted": "0\u00b015' Gemini"
+    },
+    "Neptune": {
+      "longitude": 3.2493,
+      "sign": "Aries",
+      "degree_in_sign": 3.25,
+      "formatted": "3\u00b014' Aries"
+    },
+    "Pluto": {
+      "longitude": 305.4967,
+      "sign": "Aquarius",
+      "degree_in_sign": 5.5,
+      "formatted": "5\u00b029' Aquarius"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waxing Gibbous",
+    "illumination_pct": 98.7,
+    "day_of_cycle": 14,
+    "cycle_fraction": 0.446,
+    "prev_new_moon": "2026/4/17 11:51:44"
+  }
+}
