@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-01",
+  "computed_at_utc": "12:00:00",
+  "positions": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 11.13,
+      "absolute_degree": 41.13
+    },
+    "Moon": {
+      "sign": "Scorpio",
+      "degree": 8.62,
+      "absolute_degree": 218.62
+    },
+    "Mercury": {
+      "sign": "Aries",
+      "degree": 26.91,
+      "absolute_degree": 26.91
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 8.9,
+      "absolute_degree": 68.9
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 16.76,
+      "absolute_degree": 16.76
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 18.98,
+      "absolute_degree": 108.98
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 9.21,
+      "absolute_degree": 9.21
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0.3,
+      "absolute_degree": 60.3
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.28,
+      "absolute_degree": 3.28
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.5,
+      "absolute_degree": 305.5
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Full Moon",
+    "illumination_pct": 99.8,
+    "cycle_fraction": 0.493,
+    "day_of_cycle": 14.0
+  }
+}
