@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-03",
+  "timestamp_utc": "2026-05-03T14:00:00+00:00",
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 12.79,
+      "absolute_degree": 42.79,
+      "formatted": "13\u00b0Tau"
+    },
+    "Moon": {
+      "sign": "Sagittarius",
+      "degree": 3.34,
+      "absolute_degree": 243.34,
+      "formatted": "3\u00b0Sag"
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "degree": 0.53,
+      "absolute_degree": 30.53,
+      "formatted": "1\u00b0Tau"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 11.05,
+      "absolute_degree": 71.05,
+      "formatted": "11\u00b0Gem"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 17.99,
+      "absolute_degree": 17.99,
+      "formatted": "18\u00b0Ari"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 18.91,
+      "absolute_degree": 108.91,
+      "formatted": "19\u00b0Can"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 9.07,
+      "absolute_degree": 9.07,
+      "formatted": "9\u00b0Ari"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0.05,
+      "absolute_degree": 60.05,
+      "formatted": "0\u00b0Gem"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 2.97,
+      "absolute_degree": 2.97,
+      "formatted": "3\u00b0Ari"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.13,
+      "absolute_degree": 305.13,
+      "formatted": "5\u00b0Aqu"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Full Moon",
+    "illumination_pct": 97.7,
+    "cycle_fraction": 0.5484
+  }
+}
