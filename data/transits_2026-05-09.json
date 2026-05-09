@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-09",
+  "computed_utc": "2026-05-09 12:00 UTC",
+  "positions": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 18.88,
+      "formatted": "18.88\u00b0 Taurus"
+    },
+    "Moon": {
+      "sign": "Aquarius",
+      "degree": 14.51,
+      "formatted": "14.51\u00b0 Aquarius"
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "degree": 12.86,
+      "formatted": "12.86\u00b0 Taurus"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 18.55,
+      "formatted": "18.55\u00b0 Gemini"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 22.86,
+      "formatted": "22.86\u00b0 Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 20.17,
+      "formatted": "20.17\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 10.08,
+      "formatted": "10.08\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0.76,
+      "formatted": "00.76\u00b0 Gemini"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.52,
+      "formatted": "03.52\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.5,
+      "formatted": "05.50\u00b0 Aquarius"
+    }
+  },
+  "moon_phase": {
+    "illumination_pct": 53.9,
+    "phase_name": "Last Quarter",
+    "cycle_day": 22.0,
+    "cycle_fraction": 0.75
+  }
+}
