@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-10",
+  "computed_at": "2026-05-10T14:03:34.420717+00:00",
+  "positions": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 19.56,
+      "absolute_degree": 49.56
+    },
+    "Moon": {
+      "sign": "Aquarius",
+      "degree": 27.72,
+      "absolute_degree": 327.72
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "degree": 14.79,
+      "absolute_degree": 44.79
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 19.49,
+      "absolute_degree": 79.49
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 23.32,
+      "absolute_degree": 23.32
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 19.97,
+      "absolute_degree": 109.97
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 9.83,
+      "absolute_degree": 9.83
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0.45,
+      "absolute_degree": 60.45
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.18,
+      "absolute_degree": 3.18
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.13,
+      "absolute_degree": 305.13
+    }
+  }
+}
