@@ -1,0 +1,93 @@
+{
+  "date": "2026-05-13",
+  "computed_at_utc": "2026-05-13T12:00:00+00:00",
+  "positions": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 22,
+      "minutes": 22,
+      "seconds": 47,
+      "absolute_degree": 52.38,
+      "formatted": "22\u00b022'47\" Taurus"
+    },
+    "Moon": {
+      "sign": "Aries",
+      "degree": 6,
+      "minutes": 32,
+      "seconds": 20,
+      "absolute_degree": 6.539,
+      "formatted": "6\u00b032'20\" Aries"
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "degree": 21,
+      "minutes": 2,
+      "seconds": 54,
+      "absolute_degree": 51.0485,
+      "formatted": "21\u00b002'54\" Taurus"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 22,
+      "minutes": 59,
+      "seconds": 31,
+      "absolute_degree": 82.9922,
+      "formatted": "22\u00b059'31\" Gemini"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 25,
+      "minutes": 31,
+      "seconds": 54,
+      "absolute_degree": 25.5317,
+      "formatted": "25\u00b031'54\" Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 20,
+      "minutes": 26,
+      "seconds": 16,
+      "absolute_degree": 110.4378,
+      "formatted": "20\u00b026'16\" Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 10,
+      "minutes": 8,
+      "seconds": 1,
+      "absolute_degree": 10.1339,
+      "formatted": "10\u00b008'01\" Aries"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0,
+      "minutes": 37,
+      "seconds": 16,
+      "absolute_degree": 60.6212,
+      "formatted": "0\u00b037'16\" Gemini"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3,
+      "minutes": 15,
+      "seconds": 44,
+      "absolute_degree": 3.2623,
+      "formatted": "3\u00b015'44\" Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5,
+      "minutes": 7,
+      "seconds": 27,
+      "absolute_degree": 305.1243,
+      "formatted": "5\u00b007'27\" Aquarius"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waning Crescent",
+    "illumination": 15.3,
+    "cycle_fraction": 0.873,
+    "elongation": 314.16,
+    "day_of_cycle": 26
+  }
+}
