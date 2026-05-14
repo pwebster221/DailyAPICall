@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-14",
+  "computation": {
+    "method": "PyEphem 4.2.1",
+    "observer": "0\u00b0N, 0\u00b0E",
+    "time": "noon UTC",
+    "zodiac": "tropical"
+  },
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 23.7137,
+      "absolute_degree": 53.7137,
+      "degree_formatted": "23\u00b042'"
+    },
+    "Moon": {
+      "sign": "Aries",
+      "degree": 21.1578,
+      "absolute_degree": 21.1578,
+      "degree_formatted": "21\u00b009'"
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "degree": 23.5919,
+      "absolute_degree": 53.5919,
+      "degree_formatted": "23\u00b035'"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 24.5604,
+      "absolute_degree": 84.5604,
+      "degree_formatted": "24\u00b033'"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 26.6569,
+      "absolute_degree": 26.6569,
+      "degree_formatted": "26\u00b039'"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 20.9695,
+      "absolute_degree": 110.9695,
+      "degree_formatted": "20\u00b058'"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 10.6051,
+      "absolute_degree": 10.6051,
+      "degree_formatted": "10\u00b036'"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 1.0475,
+      "absolute_degree": 61.0475,
+      "degree_formatted": "1\u00b002'"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.6577,
+      "absolute_degree": 3.6577,
+      "degree_formatted": "3\u00b039'"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.4893,
+      "absolute_degree": 305.4893,
+      "degree_formatted": "5\u00b029'"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waning Crescent",
+    "illumination_pct": 8.0,
+    "elongation": 327.44,
+    "cycle_day": 27.0,
+    "cycle_fraction": 0.92
+  }
+}
