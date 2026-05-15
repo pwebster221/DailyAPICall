@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-15",
+  "computation": {
+    "method": "PyEphem 4.2.1",
+    "observer": "0\u00b0N, 0\u00b0E",
+    "time": "12:00 UTC",
+    "zodiac": "tropical"
+  },
+  "positions": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 24.31,
+      "total_ecliptic_longitude": 54.31,
+      "formatted": "24.31\u00b0 Taurus"
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "degree": 5.48,
+      "total_ecliptic_longitude": 35.48,
+      "formatted": "5.48\u00b0 Taurus"
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "degree": 25.41,
+      "total_ecliptic_longitude": 55.41,
+      "formatted": "25.41\u00b0 Taurus"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 25.39,
+      "total_ecliptic_longitude": 85.39,
+      "formatted": "25.39\u00b0 Gemini"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 27.04,
+      "total_ecliptic_longitude": 27.04,
+      "formatted": "27.04\u00b0 Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 20.77,
+      "total_ecliptic_longitude": 110.77,
+      "formatted": "20.77\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 10.34,
+      "total_ecliptic_longitude": 10.34,
+      "formatted": "10.34\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0.74,
+      "total_ecliptic_longitude": 60.74,
+      "formatted": "0.74\u00b0 Gemini"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.32,
+      "total_ecliptic_longitude": 3.32,
+      "formatted": "3.32\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.12,
+      "total_ecliptic_longitude": 305.12,
+      "formatted": "5.12\u00b0 Aquarius"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Waning Crescent",
+    "illumination_pct": 2.8,
+    "elongation_deg": 341.17,
+    "cycle_fraction": 0.948,
+    "day_of_cycle": 28.0
+  }
+}
