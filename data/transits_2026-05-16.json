@@ -1,0 +1,75 @@
+{
+  "date": "2026-05-16",
+  "observer": "0\u00b0N/0\u00b0E, noon UTC",
+  "zodiac": "tropical",
+  "engine": "PyEphem 4.2.1",
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 55.6434,
+      "formatted": "25\u00b038' Taurus",
+      "planet": "Sun"
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "degree": 50.8878,
+      "formatted": "20\u00b053' Taurus",
+      "planet": "Moon"
+    },
+    "Mercury": {
+      "sign": "Taurus",
+      "degree": 57.9609,
+      "formatted": "27\u00b057' Taurus",
+      "planet": "Mercury"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 86.9576,
+      "formatted": "26\u00b057' Gemini",
+      "planet": "Venus"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 28.1683,
+      "formatted": "28\u00b010' Aries",
+      "planet": "Mars"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 111.3011,
+      "formatted": "21\u00b018' Cancer",
+      "planet": "Jupiter"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 10.8081,
+      "formatted": "10\u00b048' Aries",
+      "planet": "Saturn"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 61.1639,
+      "formatted": "1\u00b009' Gemini",
+      "planet": "Uranus"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.7105,
+      "formatted": "3\u00b042' Aries",
+      "planet": "Neptune"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 305.4809,
+      "formatted": "5\u00b028' Aquarius",
+      "planet": "Pluto"
+    }
+  },
+  "moon_phase": {
+    "phase_name": "Balsamic",
+    "illumination_pct": 0.4,
+    "cycle_day": 30,
+    "cycle_fraction": 0.989,
+    "elongation": 355.24
+  }
+}
