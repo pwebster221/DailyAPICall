@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-18",
+  "observer": "0N 0E, noon UTC",
+  "system": "tropical (PyEphem ecliptic)",
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 27.57,
+      "absolute_longitude": 57.57,
+      "formatted": "28\u00b034' Taurus"
+    },
+    "Moon": {
+      "sign": "Gemini",
+      "degree": 21.79,
+      "absolute_longitude": 81.79,
+      "formatted": "22\u00b047' Gemini"
+    },
+    "Mercury": {
+      "sign": "Gemini",
+      "degree": 2.32,
+      "absolute_longitude": 62.32,
+      "formatted": "2\u00b019' Gemini"
+    },
+    "Venus": {
+      "sign": "Gemini",
+      "degree": 29.35,
+      "absolute_longitude": 89.35,
+      "formatted": "29\u00b021' Gemini"
+    },
+    "Mars": {
+      "sign": "Aries",
+      "degree": 29.67,
+      "absolute_longitude": 29.67,
+      "formatted": "30\u00b040' Aries"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 21.64,
+      "absolute_longitude": 111.64,
+      "formatted": "22\u00b038' Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 11.0,
+      "absolute_longitude": 11.0,
+      "formatted": "11\u00b00' Aries"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 1.28,
+      "absolute_longitude": 61.28,
+      "formatted": "1\u00b017' Gemini"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.76,
+      "absolute_longitude": 3.76,
+      "formatted": "4\u00b046' Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.47,
+      "absolute_longitude": 305.47,
+      "formatted": "5\u00b028' Aquarius"
+    }
+  },
+  "moon_phase": {
+    "illumination_pct": 4.4,
+    "phase": "New Moon",
+    "cycle_day": 2,
+    "cycle_fraction": 0.057
+  }
+}
