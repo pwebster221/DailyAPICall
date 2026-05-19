@@ -1,0 +1,76 @@
+{
+  "date": "2026-05-19",
+  "computation": {
+    "observer": "0\u00b0N, 0\u00b0E",
+    "time": "12:00 UTC",
+    "zodiac": "tropical",
+    "engine": "PyEphem 4.2.1"
+  },
+  "planets": {
+    "Sun": {
+      "sign": "Taurus",
+      "degree": 28.17,
+      "longitude": 58.1665,
+      "formatted": "28.17\u00b0 Taurus"
+    },
+    "Moon": {
+      "sign": "Cancer",
+      "degree": 6.02,
+      "longitude": 96.0151,
+      "formatted": "6.02\u00b0 Cancer"
+    },
+    "Mercury": {
+      "sign": "Gemini",
+      "degree": 4.13,
+      "longitude": 64.126,
+      "formatted": "4.13\u00b0 Gemini"
+    },
+    "Venus": {
+      "sign": "Cancer",
+      "degree": 0.18,
+      "longitude": 90.178,
+      "formatted": "0.18\u00b0 Cancer"
+    },
+    "Mars": {
+      "sign": "Taurus",
+      "degree": 0.06,
+      "longitude": 30.0605,
+      "formatted": "0.06\u00b0 Taurus"
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "degree": 21.44,
+      "longitude": 111.4419,
+      "formatted": "21.44\u00b0 Cancer"
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "degree": 10.74,
+      "longitude": 10.7369,
+      "formatted": "10.74\u00b0 Aries"
+    },
+    "Uranus": {
+      "sign": "Gemini",
+      "degree": 0.97,
+      "longitude": 60.9703,
+      "formatted": "0.97\u00b0 Gemini"
+    },
+    "Neptune": {
+      "sign": "Aries",
+      "degree": 3.42,
+      "longitude": 3.4181,
+      "formatted": "3.42\u00b0 Aries"
+    },
+    "Pluto": {
+      "sign": "Aquarius",
+      "degree": 5.1,
+      "longitude": 305.0962,
+      "formatted": "5.10\u00b0 Aquarius"
+    }
+  },
+  "lunar": {
+    "phase_day": 2.7,
+    "cycle_fraction": 0.091,
+    "illumination_pct": 10.7
+  }
+}
